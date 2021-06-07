@@ -1,0 +1,21 @@
+.about-us{
+    display: flex;
+    flex-direction: column;
+    width: 100rem;
+    justify-content: center;
+    margin: auto;
+}
+.bottom-top__title{
+    color: #37517e;
+   text-align: center;
+    border-bottom:2px solid #0dcaf0;
+}
+.about-us__img{
+    width:300px;
+    margin: auto;
+}
+.bottom-top__subtitle{
+     color: rgb(97, 97, 97);
+     font-size: 2.0rem;
+     border-bottom: 2px solid #0dcaf0;
+}

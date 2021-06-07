@@ -1,0 +1,40 @@
+.copyright{
+    background: #37517e;
+    color: white;
+    text-align: center;
+    height: 60px;
+    padding: $m-size;
+}
+
+.footer-links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    list-style-type: none;
+}
+.footer-links__link{
+    text-decoration: none;
+    
+    color: grey;
+    transition: color 0.3s ease;
+    &:hover{
+        color: #0dcaf0;
+    }
+}
+
+
+.footer-container__t{
+    width: 80rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    color: #37517e;
+}
+.footer-container{
+    
+    background: whitesmoke;
+}
+.list{
+    list-style-type: none;
+}
